@@ -1,1 +1,12 @@
+Assignment 1:
+Using python to stream data from MTA server and track each vehicle for a line.
+Command as     python show_bus_locations.py <MTA_KEY> <BUS_LINE>
+It can locate each active bua by Latitude and Longitude, and sum number of buses
 
+Assignment 2:
+Using python to stream data from MTA server and track each vehicle for a line's next stop information
+Command as     python get_bus_info.py xxxx-xxxx-xxxx-xxxx-xxxx <BUS_LINE> <BUS_LINE>.csv
+It can locate each active bua by Latitude and Longitude,and next stop information and the status of current location from the next stop.
+
+Assignment 3:
+Read CSV files with pandas on DFDATA, to display, clean, and represent the data.
