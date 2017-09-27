@@ -1,6 +1,7 @@
 Do diets help lose more fat than the exercise?
 
-
+Hypothesis:In the certain time period doing diet will lose higher percentage/pounds than doing the exercise  
+Null: In the certain time period doing diet will lose same or lower percentage/pounds than doing the exercise
 
 Experimental setup: you have a test and a control sample.
 
