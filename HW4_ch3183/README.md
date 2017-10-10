@@ -8,6 +8,11 @@ Comment on the yt1369's notebook and give suggestions about the test.
 
 **Assignment 2:
 
+This assignment was done by team and each one did one choice of tests
+
+Yuwei Lin 
+'Path Analysis'.  Ci He   NetID: ch3183
+
 Literature choices of statistical tests
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
