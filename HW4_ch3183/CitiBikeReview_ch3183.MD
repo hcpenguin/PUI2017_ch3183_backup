@@ -20,4 +20,6 @@ I saw you did good job to pick the only necessary but enough dataset columns for
 First, the data for pre-90s and post-90s all from the same trying to compare and find the difference from different populations, as non-parametric, it has one variable as usage quantity of the bike, and two categories(pre and post-90s)).The data is unpaired, and we can easily tell the sample is way over 30, so according to the flowchart we should use z-test to test this hypothesis.
 
 Good Job and Good Luck
+
+
 Ci(Hans) He
