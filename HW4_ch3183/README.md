@@ -10,7 +10,9 @@ Comment on the yt1369's notebook and give suggestions about the test.
 
 This assignment was done by team and each one did one choice of tests
 
+
 Yuwei Lin 
+
 'Path Analysis'.  Ci He   NetID: ch3183
 
 Literature choices of statistical tests
