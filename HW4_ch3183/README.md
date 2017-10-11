@@ -9,9 +9,13 @@ Comment on the yt1369's notebook and give suggestions about the test.
 **Assignment 2:
 
 This assignment was done by team and each one did one choice of tests
+
 't-Test' ChunChieh Tsai.           NetID:cct367
+
 'Path Analysis'.  Ci He            NetID: ch3183
+
 'Logistic Regression'.  Yuwei Lin  NetID:yl5240
+
 
 
 
