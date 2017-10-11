@@ -38,3 +38,5 @@ Use the following are 3 tests to assess correlation between 2 samples of citibik
 Pearson’s test
 Spearman’s test
 K-S test(also use this reducted datasets on this test, 200 times smaller)
+
+Many thanks to Zhiao Zhou(zz1749) who helped me on the last test exercise to load right location filter stations.(riders from manhattan and brooklyn)
