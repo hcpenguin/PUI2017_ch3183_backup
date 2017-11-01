@@ -13,9 +13,9 @@ H0: the ratio of >30yo (or <=?) biking (really you want a ratio of number of rid
 the ratio of number of citibike rides by >=30 yo costumers ( or subscribers? or all?) on weekends over weekdays is the same or higher than 
 the ratio of ides by <30 yo costumers ( or subscribers? or all?)
 
-* BUT* state clearly in your report why this ratio relates to your original question (weekend - > no commute etc) 
+*BUT* state clearly in your report why this ratio relates to your original question (weekend - > no commute etc) 
 
-* the mathematical formulae dont render, but the look ok as far as I can tell.
+the mathematical formulae dont render, but the look ok as far as I can tell.
 '''
   H0: frac{{under30{weekend}}{under30{\mathrm{week}}} <= frac{over30{weekend}}{over30{week}} 
   H1: frac{under30{weekend}}{under30{\mathrm{week}}} > frac{over30{weekend}}{over30{week}} 
