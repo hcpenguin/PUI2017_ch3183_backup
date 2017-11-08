@@ -9,7 +9,7 @@ Use Authorea platform to write an short article about this mini project.
 Link is 
 https://www.authorea.com/users/175552/articles/211382-pui2017-hw7-assignment-1
 
-
+Also I attached a PDF print copy of this article in this folder.
 
 Assignment 2
 
