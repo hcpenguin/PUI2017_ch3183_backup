@@ -1,2 +1,5 @@
 HW8 Plot 
-![Alt text](HW8 screenshot.png)
+
+
+
+![Alt text](HW8 Screenshot.png)
