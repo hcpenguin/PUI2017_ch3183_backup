@@ -2,4 +2,4 @@ HW8 Plot
 
 
 
-![Alt text](HW8 Screenshot.png)
+![Alt text](HW8_Screenshot.png)
