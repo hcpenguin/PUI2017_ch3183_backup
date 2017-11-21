@@ -32,4 +32,6 @@ Also the dots' size can be tricky, you might want to make a note to clearify. Do
 
 HONESTY: 
 
-Depends on what is the purpose of the plot, if we just want to showing we have some hotspots in the city and their approximately locatoins, this plot is good, don't really need coordinates though. If we want to show which streets they  are at, and how many of them, the plot might need some improvement changes.
+Depends on what is the purpose of the plot, if we just want to show we have some hotspots in the city and their approximately locatoins, this plot is fit, still don't really need coordinates though. If we want to show which streets they are at, and how many of them, the plot might need some improvement changes.
+Not sure how we overlay the dots to the base map, by state coordinates? That is why we are using this base map?
+You can make some clearification.
